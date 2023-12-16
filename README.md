@@ -1,19 +1,19 @@
-# ¡Hola, soy Jaime! 👋
+# Hi, I'm Jaime! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaime-alberto-qui%C3%B1ones-beltran-24a94329b)
 
-Soy un/a apasionado/a por la IA y Data Science. Actualmente, estoy enfocado/a en Machine Learning.
+I am passionate about AI and Data Science. Currently, I am focused on Machine Learning, but I've worked in different areas.
 
-## Mis Herramientas y Tecnologías 🛠️
+## My Tools and Technologies 🛠️
 
-- **Lenguajes de Programación:** Python, Java
+- **Programming Languages:** Python, Java
 
-## Colaboración y Contribuciones 🤝
+## Collaboration and Contributions 🤝
 
-¡Estoy abierto/a a colaboraciones y contribuciones! Si tienes ideas para mejorar alguno de mis proyectos o te gustaría trabajar juntos en algo nuevo, ¡házmelo saber!
+I am open to collaborations and contributions! If you have ideas to enhance any of my projects or would like to work together on something new, let me know!
 
-## ¡Hablemos! 📬
+## Let's Connect! 📬
 
-Siempre estoy interesado/a en conocer a otros/as desarrolladores/as. ¡No dudes en contactarme en 1629573e@umich.mx!
+I'm always interested in connecting with other developers. Feel free to reach out to me at 1629573e@umich.mx!
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
+Thank you for visiting my profile! I hope you find my projects and contributions interesting.
