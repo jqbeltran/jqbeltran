@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaime-alberto-qui%C3%B1ones-beltran-24a94329b)
 
-I am passionate about AI and Data Science. Currently, I am focused on Machine Learning, but I've worked in different areas.
+I am passionate about mathematics and computer science. Currently, I am focused on AI and software development, but I've worked in different areas.
 
 ## My Tools and Technologies 🛠️
 
-- **Programming Languages:** Python, Java
+- **Programming Languages:** Python, Java, etc.
 
 ## Collaboration and Contributions 🤝
 
